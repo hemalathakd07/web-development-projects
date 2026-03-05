@@ -1,0 +1,35 @@
+div{
+  text-align:center;
+}
+.google-logo{
+  width:200px;
+  margin-top:10px;
+  margin-bottom:10px;
+
+}
+input{
+  border:none;
+  box-shadow:0 1px 5px rgba(0,0,0,0.3);
+  border-radius:30px;
+  width:500px;
+  margin-bottom:30px;
+  font-size:16px;
+  padding-top:12px;
+  padding-bottom:12px;
+  padding-left:16px;
+  padding-right:16px;
+}
+button{
+  background-color:rgb(245.245,245);
+  border:none;
+  padding-left:20px;
+  padding-right:20px;
+  padding-top:12px;
+  padding-bottom:12px;
+  font-size:15px;
+
+}
+
+.google-button{
+  margin-left:10px;
+}
