@@ -38,3 +38,8 @@
   border-radius:5px;
  
 }
+
+.tweet-button:hover {
+  background-color: rgb(26, 140, 216);
+  cursor:pointer;
+}
